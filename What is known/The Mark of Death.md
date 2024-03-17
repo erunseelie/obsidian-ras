@@ -1,6 +1,6 @@
 Allows control over death
 
-Originally created by [[Lady Vol]]
+Originally created by [[Lady Erandis Vol]]
 
 Currently borne by [[Vesper]]
 
