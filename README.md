@@ -15,3 +15,5 @@
 3. Try clicking the new sync button at the left menu bar in Obsidian. If nothing appears to work, try using a command terminal to run `git push` in the root directory of the Obsidian vault, and report any issues.
 
 ![](attachments/sync.png)
+
+4. Run these commands
