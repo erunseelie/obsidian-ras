@@ -9,8 +9,9 @@
 
 # Finishing Up
 1. Go to [my repository](https://github.com/erunseelie/obsidian-ras), click Code, and Download Zip. Place this somewhere on your computer.
-![[download.png]]
+![](attachments/download.png)
 2. Open Obsidian's settings (1), go to Community Plugins (2) and enable community plugins, Browse (3) and search for "Yet Another Obsidian Synchronizer" (4).
-![[plogons.png]]
+![](attachments/plogons.png)
 3. Try clicking the new sync button at the left menu bar in Obsidian. If nothing appears to work, try using a command terminal to run `git push` in the root directory of the Obsidian vault, and report any issues.
-![[sync.png]]
+
+![](attachments/sync.png)
