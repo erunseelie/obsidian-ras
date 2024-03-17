@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git.md"
+                "file": "README.md"
               }
             }
           }
@@ -169,7 +169,7 @@
     "attachments",
     "attachments/Pasted image 20240317104924.png",
     "What is known/Horosphere.md",
-    "git.md",
+    "README.md",
     "What is known/Lady Vol.md",
     "What comes next/Decode the map.md",
     "Goals/Uncover the truth of the Mourning.md",
