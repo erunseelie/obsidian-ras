@@ -1,0 +1,1 @@
+Told [[Yedoka]] that they believe [[Rasztadraasz]] could influence and command someone without that person knowing.

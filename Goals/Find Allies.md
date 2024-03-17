@@ -1,0 +1,1 @@
+If we're up against a Progenitor dragon we'll need all the help we can get from every source we can get it from.

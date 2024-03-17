@@ -1,0 +1,1 @@
+It is theorised that this could be done by using the [[Horosphere]] on a sleeping person in conjunction with the [[Memory Map]].

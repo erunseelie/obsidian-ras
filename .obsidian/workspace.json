@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "7afae0a30cd4154e",
+    "type": "split",
+    "children": [
+      {
+        "id": "29d60ee3499247fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72ecf413bf680f00",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is known/Horosphere.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "299c588329edd462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef93280d166d0c6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "42ac6e7a6d9a3a08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8df3dc50ef020b26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b64bb40f23f4707",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9844e340d0b96e95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2791af5fbf81f87",
+    "type": "split",
+    "children": [
+      {
+        "id": "740aa18c9ebff81f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceb48d497bcb9b9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7483ff5c57c2f7a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f2c2fe249984ccf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "400b55e5c2143bc6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git setup.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "299c588329edd462",
+  "lastOpenFiles": [
+    "What is known/Horosphere.md",
+    "git setup.md",
+    "What is known/Lady Vol.md",
+    "What comes next/Decode the map.md",
+    "Goals/Uncover the truth of the Mourning.md",
+    "Goals/What is Røkr's friend.md",
+    "Goals/Where is Røkr's arm.md",
+    "What comes next/Help Cedric.md",
+    "What comes next/Restore Røkr's memories.md",
+    "What comes next/Assisting Dalas Ir'Tain.md",
+    "What comes next/Assisting Celyria Ir'Tain.md",
+    "Goals/Find Allies.md",
+    "What comes next/Restoring Eli's memories.md",
+    "What comes next/Decrypt the map.md",
+    "What comes next/Help Thora with her research.md",
+    "Goals/Cure Lycanthropy.md",
+    "Goals/Learn more about Dragonmarks.md",
+    "Goals/Learn more about Rasztadraasz.md",
+    "Goals",
+    "What is known/Brook.md",
+    "What comes next",
+    "What is known",
+    "What is known/Kol Charron.md",
+    "What is known/Rasztadraasz.md",
+    "What is known/Røkr's 'friend'.md",
+    "What is known/Zorlan d'Cannith.md",
+    "What is known/Žarko d'Cannith.md",
+    "What is known/Yedoka's friends.md",
+    "What is known/Yedoka.md"
+  ]
+}

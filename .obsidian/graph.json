@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#incarnationOfRasztadraasz  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#incarnationOfKolCharron  ",
+      "color": {
+        "a": 1,
+        "rgb": 12283078
+      }
+    },
+    {
+      "query": "tag:#McGuffin  ",
+      "color": {
+        "a": 1,
+        "rgb": 6546378
+      }
+    },
+    {
+      "query": "tag:#pc  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#OOCKnowledgeOnly  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#razzledazzle  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#kolCharron  ",
+      "color": {
+        "a": 1,
+        "rgb": 13763835
+      }
+    },
+    {
+      "query": "path:Goals  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    },
+    {
+      "query": "path:\"What comes next\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16749824
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.88177083333333,
+  "lineSizeMultiplier": 2.75416666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.442708333333333,
+  "repelStrength": 14.5833333333333,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.3882579843272471,
+  "close": false
+}

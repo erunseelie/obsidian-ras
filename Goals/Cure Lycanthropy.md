@@ -1,0 +1,1 @@
+[[Brook]] wants to find a cure for Lycanthropy, or more accurately travel back in time and prevent it ever existing.
