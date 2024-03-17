@@ -3,3 +3,4 @@
 [[Vesper]] bears [[The Mark of Death]].
 Corvine believes that [[Changes to Dragonmarks]] are possible.
 [[Zorlan d'Cannith]] was clearly interested due to his [[Experiments on hybrid dragonmarks]]
+[[Savante Røkr]] bears an aberrant mark, created from Houses Deneith and Cannith, yet is uncertain of its nature.

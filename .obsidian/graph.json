@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "røkr",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -81,6 +81,6 @@
   "repelStrength": 14.5833333333333,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.5823869764908706,
+  "scale": 0.5823869764908705,
   "close": false
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is known/Unlocking lost memories.md",
+                "file": "Goals/Learn more about Dragonmarks.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "where is",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,18 +104,27 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "d1079222c9432e21",
+  "active": "4c419005d0038120",
   "lastOpenFiles": [
+    "What is known/Kol Charran.md",
+    "What is known/Eli Tarkannan.md",
+    "What is known/Røkr's 'friend'.md",
+    "Goals/What is Røkr's friend.md",
+    "Goals/Learn more about Dragonmarks.md",
+    "Goals/Where is Røkr's arm.md",
+    "What is known/Savante Røkr.md",
+    "Røkr's right arm.md",
+    "Goals/Find Allies.md",
+    "Goals/Cure Lycanthropy.md",
+    "Goals/Uncover the truth of the Mourning.md",
+    "What is known/Ras.md",
+    "What is known/Rasztadraasz.md",
+    "What is known/Unlocking lost memories.md",
     "What comes next/Restore Røkr's memories.md",
     "What comes next/Restoring Eli's memories.md",
     "What is known/Zorlan d'Cannith.md",
     "What is known/Žarko d'Cannith.md",
-    "What is known/Unlocking lost memories.md",
-    "What is known/Røkr's 'friend'.md",
     "What is known/Røkr's right arm.md",
-    "Goals/Where is Røkr's arm.md",
-    "Goals/What is Røkr's friend.md",
-    "Goals/Find Allies.md",
     "README.md",
     "What is known/Horosphere.md",
     "attachments/sync.png",
@@ -124,20 +133,11 @@
     "attachments",
     "What is known/Lady Vol.md",
     "What comes next/Decode the map.md",
-    "Goals/Uncover the truth of the Mourning.md",
     "What comes next/Help Cedric.md",
     "What comes next/Assisting Dalas Ir'Tain.md",
     "What comes next/Assisting Celyria Ir'Tain.md",
-    "What comes next/Decrypt the map.md",
-    "What comes next/Help Thora with her research.md",
-    "Goals/Cure Lycanthropy.md",
-    "Goals/Learn more about Dragonmarks.md",
-    "Goals/Learn more about Rasztadraasz.md",
     "Goals",
-    "What is known/Brook.md",
     "What comes next",
-    "What is known",
-    "What is known/Kol Charron.md",
-    "What is known/Rasztadraasz.md"
+    "What is known"
   ]
 }
