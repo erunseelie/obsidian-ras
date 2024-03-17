@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is known/Zorlan d'Cannith.md",
+                "file": "What is known/Unlocking lost memories.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,6 +106,9 @@
   },
   "active": "d1079222c9432e21",
   "lastOpenFiles": [
+    "What comes next/Restore Røkr's memories.md",
+    "What comes next/Restoring Eli's memories.md",
+    "What is known/Zorlan d'Cannith.md",
     "What is known/Žarko d'Cannith.md",
     "What is known/Unlocking lost memories.md",
     "What is known/Røkr's 'friend'.md",
@@ -123,10 +126,8 @@
     "What comes next/Decode the map.md",
     "Goals/Uncover the truth of the Mourning.md",
     "What comes next/Help Cedric.md",
-    "What comes next/Restore Røkr's memories.md",
     "What comes next/Assisting Dalas Ir'Tain.md",
     "What comes next/Assisting Celyria Ir'Tain.md",
-    "What comes next/Restoring Eli's memories.md",
     "What comes next/Decrypt the map.md",
     "What comes next/Help Thora with her research.md",
     "Goals/Cure Lycanthropy.md",
@@ -137,7 +138,6 @@
     "What comes next",
     "What is known",
     "What is known/Kol Charron.md",
-    "What is known/Rasztadraasz.md",
-    "What is known/Zorlan d'Cannith.md"
+    "What is known/Rasztadraasz.md"
   ]
 }
