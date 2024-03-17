@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dfd3c60aea460464",
+        "id": "4744371f7b9d9224",
         "type": "tabs",
         "children": [
           {
-            "id": "d1079222c9432e21",
+            "id": "3a480e36f9ac6648",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What is known/Savante Røkr.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17ce6960ef303740",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What is known/Savante Røkr.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,49 +72,69 @@
     "type": "split",
     "children": [
       {
-        "id": "2f6cffcd3beb2208",
+        "id": "70d2c4e943f1f456",
         "type": "tabs",
         "children": [
           {
-            "id": "af8cd5eaa730a731",
+            "id": "4c419005d0038120",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "85e8a0f6b2b2f3a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
               "state": {
-                "file": "What is known/Savante Røkr.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "2f4632f00e727876",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "048ff78bcd3329fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ef54656efba552a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 895.5
+    "width": 895.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,40 +147,48 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "17ce6960ef303740",
+  "active": "8df3dc50ef020b26",
   "lastOpenFiles": [
-    "What is known/Lady Erandis Vol.md",
+    "What is known/Žarko d'Cannith.md",
+    "What is known/Zorlan d'Cannith.md",
+    "What is known/Yedoka.md",
+    "What is known/Yedoka's friends.md",
+    "What is known/Vesper.md",
+    "What is known/Unlocking lost memories.md",
+    "What is known/The Mourning.md",
     "What is known/The Mark of Death.md",
     "What is known/Savante Røkr.md",
-    "What is known/Indra.md",
-    "What is known/Experiments on hybrid dragonmarks.md",
-    "What is known/Changes to Dragonmarks.md",
-    "What is known/Kol Charran.md",
-    "What is known/Eli Tarkannan.md",
     "What is known/Røkr's 'friend'.md",
-    "Goals/What is Røkr's friend.md",
-    "Goals/Learn more about Dragonmarks.md",
-    "Goals/Where is Røkr's arm.md",
-    "Røkr's right arm.md",
-    "Goals/Find Allies.md",
-    "Goals/Cure Lycanthropy.md",
-    "Goals/Uncover the truth of the Mourning.md",
-    "What is known/Ras.md",
     "What is known/Rasztadraasz.md",
-    "What is known/Unlocking lost memories.md",
-    "What comes next/Restore Røkr's memories.md",
-    "What comes next/Restoring Eli's memories.md",
-    "What is known/Zorlan d'Cannith.md",
-    "What is known/Žarko d'Cannith.md",
-    "What is known/Røkr's right arm.md",
-    "README.md",
+    "What is known/Ras.md",
+    "What is known/Memory Map.md",
+    "What is known/Lieutenant Aradas.md",
+    "What is known/Lady Erandis Vol.md",
+    "What is known/Kol Charran.md",
+    "What is known/Indra.md",
     "What is known/Horosphere.md",
+    "What is known/Experiments on hybrid dragonmarks.md",
+    "What is known/Corvine.md",
+    "What is known/Eli Tarkannan.md",
+    "What is known/Captain at Vesper's interrogation.md",
+    "What is known/Changes to Dragonmarks.md",
+    "What is known/Brook.md",
+    "What is known",
+    "What comes next/Restoring Eli's memories.md",
+    "What comes next/Restore Røkr's memories.md",
+    "What comes next",
+    "Goals",
     "attachments/sync.png",
     "attachments/plogons.png",
     "attachments/download.png",
     "attachments",
-    "Goals",
-    "What comes next",
-    "What is known"
+    "obsidian-ras/attachments/sync.png",
+    "obsidian-ras/attachments/plogons.png",
+    "obsidian-ras/attachments/download.png",
+    "obsidian-ras/attachments",
+    "obsidian-ras/What is known",
+    "obsidian-ras/What comes next",
+    "obsidian-ras/Goals",
+    "obsidian-ras"
   ]
 }
